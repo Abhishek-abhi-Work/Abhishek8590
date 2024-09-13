@@ -2,19 +2,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek S</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">I'm a passionate developer from India who loves web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek8590&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8590" /> </p>
 
 - 🔭 I’m currently working on [Hospital Management](https://github.com/Abhishek8590/HospitalManagement.git)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **C# and Dotnet**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-s-26568327a](https://www.linkedin.com/in/abhishek-s-26568327a)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django and Vue.js**
 
-- 📫 How to reach me **abhishekskn8590@gmail.com**
+- 📫 How to reach me **abhishekabhiwork@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-s-26568327a](https://www.linkedin.com/in/abhishek-s-26568327a)
 
